@@ -8,3 +8,6 @@ div {
 .paragraph {
     color: red;
 }
+#hintergrund {
+    background-color: darkgrey;width: fit-content;
+}
