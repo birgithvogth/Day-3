@@ -1,0 +1,15 @@
+div {
+    margin: 5px;
+}
+#header {
+    color: blue;
+}
+span {
+    visibility: hidden;
+}
+#second p {
+    display: none;
+}
+.paragraph {
+    color: red;
+}
